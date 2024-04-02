@@ -35,8 +35,8 @@ The models are trained on a focused dataset of 11 images and evaluated based on 
 - [Github Repository](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning)
 - [BLIP Captions](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning/tree/main/Blip%20Captions)
 - [Human Captions](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning/tree/main/Human%20Captions)
-- [BLIP Captioned LoRA Models]()
-- [Human Captioned LoRA Models]()
+- [BLIP Captioned LoRA Models](https://1drv.ms/f/s!AnfY20aNHR6Zpd0eg8_-DtXPSPJx_w?e=6Yd7kS)
+- [Human Captioned LoRA Models](https://1drv.ms/f/s!AnfY20aNHR6Zpd0dvQqw7_9Fs2ECQw?e=2AJkLa)
 - [Workflow Video - BLIP Captions](https://vimeo.com/929730071)
 - [Workflow Video - Human Captions](https://vimeo.com/929730440)
 
