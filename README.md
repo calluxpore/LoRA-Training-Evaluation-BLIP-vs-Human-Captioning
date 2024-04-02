@@ -1,7 +1,7 @@
 # LoRA-Training-Evaluation-BLIP-vs-Human-Captioning
 
 ## Overview
-"LoRA Training Evaluation: BLIP vs Human Captioning" is a research project by Sam, a graduate student of Digital Futures at OCAD University, CA. This project explores training Lora models within the stable diffusion framework to generate images from text descriptions. The focus is on understanding how the captions used before training impact the model's performance and ability to accurately reproduce results.
+"LoRA Training Evaluation: BLIP vs Human Captioning" is a research project by Samarth K Reddy, a graduate student of Digital Futures at OCAD University, CA. This project explores training Lora models within the stable diffusion framework to generate images from text descriptions. The focus is on understanding how the captions used before training impact the model's performance and ability to accurately reproduce results.
 
 ## Objectives
 - Investigate the impact of captioning methods (BLIP vs human) on LoRA training for Stable Diffusion models
