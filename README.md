@@ -50,3 +50,4 @@ Invoke, dir. 2024. Creating Embeddings and Concept Models with Invoke Training -
 
 Li, Junnan, Dongxu Li, Caiming Xiong, and Steven Hoi. 2022. “BLIP: Bootstrapping Language-Image Pre-Training for Unified Vision-Language Understanding and Generation.” arXiv. https://doi.org/10.48550/arXiv.2201.12086.
 
+“Old Photos.” n.d. Accessed April 1, 2024. https://www.kaggle.com/datasets/marcinrutecki/old-photos.
