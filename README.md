@@ -32,10 +32,13 @@ The models are trained on a focused dataset of 11 images and evaluated based on 
 - Kohya SS implementation of LoRA for model training
 
 ## Links
-Github Repository
-BLIP Captioned LoRA Models
-Human Captioned LoRA Models
-Workflow Videos
+- [Github Repository](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning)
+- [BLIP Captions](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning/tree/main/Blip%20Captions)
+- [Human Captions](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning/tree/main/Human%20Captions)
+- [BLIP Captioned LoRA Models]()
+- [Human Captioned LoRA Models]()
+- [Workflow Video - BLIP Captions](https://vimeo.com/929730071)
+- [Workflow Video - Human Captions](https://vimeo.com/929730440)
 
 ## Acknowledgements
 Special thanks to Professor Alexis Morris and Professor Fidelia Lam of the Faculty of Arts & Science at OCAD University for their guidance and support throughout the exploration and development of this project.
