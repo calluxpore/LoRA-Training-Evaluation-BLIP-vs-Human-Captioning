@@ -32,6 +32,7 @@ The models are trained on a focused dataset of 11 images and evaluated based on 
 - Kohya SS implementation of LoRA for model training
 
 ## Links
+- [Presentation](https://pitch.com/v/ai-lora-training-evaluation-blip-vs-human-captioning-n5dbv8)
 - [Github Repository](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning)
 - [BLIP Captions](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning/tree/main/Blip%20Captions)
 - [Human Captions](https://github.com/calluxpore/LoRA-Training-Evaluation-BLIP-vs-Human-Captioning/tree/main/Human%20Captions)
